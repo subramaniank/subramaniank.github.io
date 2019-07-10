@@ -1,0 +1,8 @@
+title: K Subramanian
+description: My github page. Take a gander.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
